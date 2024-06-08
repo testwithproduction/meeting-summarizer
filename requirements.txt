@@ -1,0 +1,10 @@
+sounddevice
+numpy
+scipy
+openai-whisper
+openai
+torch
+torchvision
+torchaudio
+PyQt5
+python-dotenv
